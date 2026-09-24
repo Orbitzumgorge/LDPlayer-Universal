@@ -1,0 +1,23 @@
+{
+  "repo": "ldplayer-universal",
+  "product": "LDPlayer Universal",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "android-emulator",
+  "topics": [
+    "ldplayer",
+    "ldplayer-windows",
+    "android-emulator-desktop",
+    "how-to-install-ldplayer",
+    "ldplayer-desktop-package",
+    "ldplayer-workspace",
+    "ldplayer-pro-tools",
+    "ldplayer-suite",
+    "zentool-ldplayer",
+    "ldplayer-tool-9"
+  ],
+  "site": "zentool.art"
+}
